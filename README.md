@@ -14,4 +14,4 @@ This project focuses on analyzing supply chain performance and sales data for a 
 * **Inventory Optimization:** Analyzed stock rotation and order frequency to minimize supply chain bottlenecks.
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](dashboard_screenshot.png)
+![Sales Dashboard](ecommerce_sales_dashboard.png)
